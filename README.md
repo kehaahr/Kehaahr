@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://app.daily.dev/Kehaahr"><img src="https://github.com/kehaahr/Kehaahr/devcard.svg" width="400" alt="Kenneth Haahr's Dev Card"/></a>
